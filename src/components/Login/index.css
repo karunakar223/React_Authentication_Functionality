@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.login-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 38px;
+  font-weight: 900;
+}
+
+.login-btn {
+  cursor: pointer;
+  outline: none;
+}

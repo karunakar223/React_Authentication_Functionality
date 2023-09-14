@@ -1,0 +1,20 @@
+/* Write your CSS code here */
+.nav-bar {
+  height: 15vh;
+  width: 100%;
+  background-size: cover;
+}
+
+.nav-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-link-item {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+  margin: 20px;
+  list-style-type: none;
+}

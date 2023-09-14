@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.not-found-container {
+  display: flex;
+  justify-content: center;
+}
+
+.main-heading {
+  font-family: 'Roboto';
+  font-size: 38px;
+  font-weight: 900;
+}

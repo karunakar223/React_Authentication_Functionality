@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.logout-container {
+  display: flex;
+  justify-content: center;
+}
+
+.logout-btn {
+  cursor: pointer;
+  outline: none;
+}
